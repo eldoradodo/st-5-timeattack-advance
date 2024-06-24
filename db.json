@@ -6,7 +6,9 @@
       "contents": "1",
       "isCompleted": false,
       "liked": false,
-      "createdAt": 1718587545473
+      "createdAt": 1718587545473,
+      "isLiked": true,
+      "Liked": true
     },
     {
       "id": "1718587550672",
@@ -14,7 +16,8 @@
       "contents": "2",
       "isCompleted": false,
       "liked": false,
-      "createdAt": 1718587550672
+      "createdAt": 1718587550672,
+      "Liked": true
     },
     {
       "id": "1718594820497",
